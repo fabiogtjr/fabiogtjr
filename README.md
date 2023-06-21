@@ -2,7 +2,7 @@
 
 - 🔥 Mid-level Web Developer
 
-- 🔭 I’m currently working at Dock Tech(https://dock.tech/)
+- 🔭 I’m currently working at Flash Benefícios(https://flashapp.com.br/)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
