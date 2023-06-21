@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Fábio Taques</h1>
 
-- 🔥 Mid-level Web Developer
+- 🔥 Senior Web Developer
 
 - 🔭 I’m currently working at Flash Benefícios(https://flashapp.com.br/)
 
